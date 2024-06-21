@@ -130,23 +130,27 @@
     position: absolute;
     text-align: center;
     background-color: aqua;
-    top: 250px;
-    left: 36%;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%,-50%);
+
 }
 .sec4minidiv2 {
     width: 540px;
     height: 96px;
     position: absolute;
     text-align: center;
-    top: 320px;
-    left: 35%;
+    left: 50%;
+    top: 59%;
+    transform: translate(-50%,-50%);
 }
 .whiteaction {
     width: 84px;
     height: 40px;
     position: absolute;
-    top: 455px;
-    left: 48%;
+    left: 50%;
+    top: 63%;
+    transform: translate(-50%,-50%);
     border-radius: 24px;
     background-color: white;
     display: flex;
