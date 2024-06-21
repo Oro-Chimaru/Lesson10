@@ -1,0 +1,155 @@
+.head-div1 {
+    width: 101px;
+    margin-left: 32px;
+}
+.head-div2 {
+    width: 328px;
+}
+.nav-li {
+    display: flex;
+    justify-content: space-around;
+}
+.head-div3 {
+    width: 100px;
+    height: 48px;
+    border-radius: 32px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 32px;
+}
+.mainhead {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 96px;
+}
+.sec1 {
+    background-color: aquamarine;
+}
+.divwraper {
+    max-width: 1110px;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    column-gap: 130px;
+}
+.leftdiv {
+    width: 490px;
+}
+.rightdiv {
+    width: 490px;
+    height: 428px;
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
+.actiondiv {
+    width: 100px;
+    height: 48px;
+    border-radius: 32px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.minidiv2 {
+    display: flex;
+    align-items: center;
+}
+.mainimg {
+    width: 100%;
+}
+.sec2 {
+    background-color: #F3F3F3;
+    height: 244.2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.divwraper2 {
+    max-width: 1110px;
+    width: 90%;
+    display: flex;
+    column-gap: 30px;
+}
+.div1 {
+    width: 360px;
+}
+.holediv {
+    display: flex;
+    align-items: center;
+    column-gap: 13.6px;
+    margin-bottom: 16px;
+}
+.blackhole {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: black;
+}
+.descr {
+    width: 335.35px;
+    height: 60.2px;
+}
+.sec3 {
+    height: 620px;
+    background-color: black;
+}
+.divwraper3 {
+    max-width: 1140px;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    column-gap: 133px;
+}
+.leftdiv-3 {
+    width: 503.5px;
+    height: 428px;
+    margin-top: 96px;
+}
+.rightdiv-3 {
+    width: 503px;
+    height: 264px;
+    margin-top: 178px;
+    color: white;
+}
+.lastimg {
+    width: 100%;
+}
+.sec4div {
+    position: relative;
+}
+.sec4minidiv1 {
+    width: 540px;
+    height: 24px;
+    position: absolute;
+    text-align: center;
+    background-color: aqua;
+    top: 250px;
+    left: 36%;
+}
+.sec4minidiv2 {
+    width: 540px;
+    height: 96px;
+    position: absolute;
+    text-align: center;
+    top: 320px;
+    left: 35%;
+}
+.whiteaction {
+    width: 84px;
+    height: 40px;
+    position: absolute;
+    top: 455px;
+    left: 48%;
+    border-radius: 24px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
