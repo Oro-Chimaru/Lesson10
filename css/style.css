@@ -82,6 +82,7 @@
 }
 .mainimg {
     width: 100%;
+    border-radius: 12%;
 }
 .sec2 {
     background-color: #F3F3F3;
@@ -91,8 +92,7 @@
     justify-content: center;
 }
 .divwraper2 {
-    max-width: 1110px;
-    width: 90%;
+    width: 1110px;
     display: flex;
     column-gap: 30px;
 }
@@ -288,6 +288,7 @@
     }
     .leftdiv-3 {
         width: 100%;
+        
     }
     .rightdiv-3 {
         width: 100%;
@@ -365,5 +366,123 @@
         display: flex;
         justify-content: center;
     }
+    .sec2 {
+        width: 100%;
+        height: 460px;
+    }
+    .divwraper2 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .div1 {
+       width: 100%;
+        
+    }
+    .holediv {
+       display: flex;
+       justify-content: center;
+    }
+    .descr {
+        width: 85%;
+        font-size: 16px;
+        line-height: 24px;
+        display: flex;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .bh {
+        margin-top: 20px;
+    }
+    .rightdiv-3 {
+        flex-direction: column;
+    }
+    .rightdivh4 {
+        width: 100%;
+        height: 64px;
+        text-align: center;
+        margin: 0 auto 29px;
+    }
+    .rightdiv5p {
+        width: 95%;
+        flex-direction: column;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .f1 {
+        margin-bottom: 29px;
+    }
+    .box4 {
+        height: 120px;
+    }
+    .rightdivp {
+        width: 100%;
+    }
+    .sec4div {
+        padding-top: 25px;
+        background-color: black;
+    }
+    .sec4h2 {
+        width: 110%;
+        font-size: 40px;
+        line-height: 48px;
+        height: 96px;
+        margin-bottom: 12px;
+    }
+    .longsec,
+    .sec4minidiv2 {
+        width: 100%;
+}
 
+@media (max-width: 375px) {
+    .minidivh2 {
+        width: 327px;
+        height: 97px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .minidivp {
+        width: 327px;
+        height: 84px;
+        margin: 0 auto 24px;
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .rightdiv {
+        width: 327px;
+        height: 209px;
+    }
+    .sec2 {
+      height: 540px;  
+      margin-top: 42px;
+    }
+    .div1 {
+        width: 100%;
+        height: 170px;
+    }
+    .descr {
+        width: 327px;
+        height: 72px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .leftdiv-3 {
+        margin-top: 24px;
+    }
+    .sec3 {
+        width: 100%;
+    }
+    .rightdiv-3 
+    .longsec {
+        width: 100%;
+    }
+    sec4di {
+        width: 247px;
+        height: 232px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .logodiv {
+        background-color: aqua;
+    }
 }
